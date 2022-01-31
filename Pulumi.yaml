@@ -1,0 +1,3 @@
+name: testing-unit-component-py
+runtime: python
+description: An example that applies unit testing to Python and AWS resources.
